@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationMicrosoftGraph", "ApplicationMicrosoftGraph\ApplicationMicrosoftGraph.csproj", "{7D7476A7-E2D0-4513-90C0-4A3CD645E154}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{996A161B-239E-4D07-BF48-AEC2478081D4}"
+	ProjectSection(SolutionItems) = preProject
+		README.markdown = README.markdown
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7476A7-E2D0-4513-90C0-4A3CD645E154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7476A7-E2D0-4513-90C0-4A3CD645E154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7476A7-E2D0-4513-90C0-4A3CD645E154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7476A7-E2D0-4513-90C0-4A3CD645E154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1877EF-8141-487C-8CCA-0B27CEB4AFCC}
+	EndGlobalSection
+EndGlobal
